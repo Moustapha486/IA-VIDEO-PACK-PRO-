@@ -1,0 +1,16 @@
+{
+  "name": "ia-video-pack-pro",
+  "version": "1.0.0",
+  "description": "Pack IA Vidéo Pro — Professional Video Creation with AI",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML - no build step required'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": ["video", "ai", "analytics"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
